@@ -1,3 +1,4 @@
+#krishnakanth.n7@gmail.com
 alphabets=string(input())
 if (alphbets==a,e,i,o,u):
     print("Vowels")
