@@ -1,7 +1,8 @@
+#krishnakanth.n7@gmail.com
 a=int(input())
 if(a>0)
-    print("positive")
+    print("Positive")
 elif(a==0)
-    print("zero")
+    print("Zero")
 else
-     print("negative")
+     print("Negative")
